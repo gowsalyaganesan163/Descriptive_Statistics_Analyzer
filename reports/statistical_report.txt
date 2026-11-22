@@ -1,0 +1,64 @@
+======================================================================
+             DESCRIPTIVE STATISTICS REPORT
+======================================================================
+
+
+COLUMN: Amount
+--------------------------------------------------
+Count                    : 1194
+Mean                     : 5178.09
+Median                   : 5152.00
+Mode                     : 508
+Minimum                  : 508
+Maximum                  : 9992
+Range                    : 9484
+Variance                 : 7867587.17
+Standard Deviation       : 2804.92
+Q1                       : 2799.00
+Q2                       : 5152.00
+Q3                       : 7626.00
+IQR                      : 4827.00
+Skewness                 : 0.05
+Kurtosis                 : -1.18
+Outlier Count            : 0
+
+
+COLUMN: Profit
+--------------------------------------------------
+Count                    : 1194
+Mean                     : 1348.99
+Median                   : 1014.00
+Mode                     : 177
+Minimum                  : 50
+Maximum                  : 4930
+Range                    : 4880
+Variance                 : 1249907.39
+Standard Deviation       : 1117.99
+Q1                       : 410.00
+Q2                       : 1014.00
+Q3                       : 2035.00
+IQR                      : 1625.00
+Skewness                 : 0.94
+Kurtosis                 : 0.05
+Outlier Count            : 10
+
+
+COLUMN: Quantity
+--------------------------------------------------
+Count                    : 1194
+Mean                     : 10.67
+Median                   : 11.00
+Mode                     : 14
+Minimum                  : 1
+Maximum                  : 20
+Range                    : 19
+Variance                 : 33.37
+Standard Deviation       : 5.78
+Q1                       : 6.00
+Q2                       : 11.00
+Q3                       : 16.00
+IQR                      : 10.00
+Skewness                 : -0.04
+Kurtosis                 : -1.23
+Outlier Count            : 0
+
